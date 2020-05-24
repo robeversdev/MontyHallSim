@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MontyHallSim", "MontyHallSim\MontyHallSim.csproj", "{BDE85407-1181-4184-879B-E3BE12D47720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE85407-1181-4184-879B-E3BE12D47720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE85407-1181-4184-879B-E3BE12D47720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE85407-1181-4184-879B-E3BE12D47720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE85407-1181-4184-879B-E3BE12D47720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AB4FCB4-A041-4233-A21E-0EBD8E48BD06}
+	EndGlobalSection
+EndGlobal
